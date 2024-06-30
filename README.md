@@ -16,6 +16,7 @@
     <p>used to divide the objects on each picture into OpenMP threads. Each thread checks a specific object on the picture.</p>
 		<b>CUDA</b>
     <p>Compute Unified Device Architecture, used to calculate all possible locations of the given object on the picture in parallel.</p>
+	<img src="Workflow Diagram.png" alt="Example Image" width="1000">
 	</ul>
 	<h2>Requirements</h2>
 	<p>📋 To run this project, you will need:</p>
